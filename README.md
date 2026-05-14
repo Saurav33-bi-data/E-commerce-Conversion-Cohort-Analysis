@@ -1,4 +1,4 @@
-# Bussiness_analytics_manhattan-airbnb-investment-analysis
+# E-commerce Conversion & Cohort Analysis
 Data-driven investment strategy for Manhattan Airbnb rentals using Excel. Analyzes neighborhood demand, property sizing, and revenue potential to identify high-yield opportunities.
 # E-Commerce Funnel and Retention Analysis
 ### Optimizing Conversion Paths and Customer Lifetime Value
